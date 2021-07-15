@@ -11,7 +11,7 @@ df_streaming <- read_csv("2021-07-15_meeting01/df_streaming.csv")
 # 1-2 Visualize Amounts/Proportions
 
 ### Task(2): Visualize NTU Student Congress Members Election & Attendance Rate
-df_candidate_final <- read_csv("2021-07-15_meeting01/df_candidate_final.csv")
+df_attnd_vote <- read_csv("2021-07-15_meeting01/df_attnd_vote.csv")
 df_college_join <- read_csv("2021-07-15_meeting01/df_college_join.csv")
 df_vote_college <- read_csv("2021-07-15_meeting01/df_vote_college.csv") %>% rename(term = start)
 
