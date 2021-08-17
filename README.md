@@ -8,10 +8,17 @@ NTU Graduate Institute of Journalism Data Journalism Study Group
 4. Report on a local basis with given topics by group then construct a feature story.
 
 ## Round01 - Inequality
+
+### meeting03_2021-08-26
+* Theme: Methodology
+* 2021-08-26_data-viz-practice.R
+
 ### meeting02_2021-08-05
+* Theme: Case Study
 * 2021-08-05_reviz-practice using Google Slide/Spreadsheet
 
 ### meeting01_2021-07-15
+* Theme: Reading
 * Read ch01 - ch14 of [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
-* 2021-07-15_data-viz-practice.R
+* 2021-07-15_data-viz-practice.R featuring U.S. Streaming data and NTUSC data
 
