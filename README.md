@@ -11,7 +11,7 @@ NTU Graduate Institute of Journalism Data Journalism Study Group
 
 ### meeting03_2021-08-26
 * Theme: Methodology
-* 2021-08-26_data-viz-practice.R
+* 2021-08-26_data-viz-practice.R featuring Netflix Ranking data
 
 ### meeting02_2021-08-05
 * Theme: Case Study
