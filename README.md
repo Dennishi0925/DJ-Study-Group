@@ -1,6 +1,9 @@
 # DJ-Study-Group
 NTU Graduate Institute of Journalism Data Journalism Study Group
 
+### Articles
+* 2020-08-15 [We Organized a DDJ Study Group](https://medium.com/ddj-study-group/initiate-data-driven-journalism-study-group-5a1513ad8f1c)
+
 ## Structure
 1. Read a book featuring data visualization collectively then summarize as well as present by group.
 2. Select global and local media reports with given topics then summarize and critisize them constructively by group.
